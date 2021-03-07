@@ -1,4 +1,4 @@
-### Hello everybody and welcome to my page 👋
+### Hello everybody and welcome to my page!
 
 I continue to study Ruby on Rails.
 
