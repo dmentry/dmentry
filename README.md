@@ -2,4 +2,4 @@
 
 I continue to study Ruby on Rails.
 
-<a href="https://dmentry.github.io/cv" rel="noopener noreferrer" target="_blank" title="Read my CV">My CV</a>
+<a href="https://dmentry.github.io/cv" title="Read my CV">My CV</a>
