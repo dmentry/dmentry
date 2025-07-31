@@ -3,4 +3,4 @@
 Study Ruby on Rails and other things.
 
 <a href="https://dack9.ru/en/cv_eng" title="CV" target="_blank">My CV (Eng)</a><br/>
-<a href="https://dack9.ru/en/cv_rus" title="Резюме" target="_blank">Мое резюме (Рус)</a>
+<a href="https://dack9.ru/cv_rus" title="Резюме" target="_blank">Мое резюме (Рус)</a>
